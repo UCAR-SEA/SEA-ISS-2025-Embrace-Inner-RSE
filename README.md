@@ -11,9 +11,5 @@
 
 
 **Acknowledgements**: The CTSM SE team that I am proud to be a part of: Adrianna Foster, Greg Lemieux, Ryan Knox, Sam Levis, Sam Rabin, Will Wieder
-
----
-
-*Note: Replace the placeholders above with the specific details of your paper.*
   
 
