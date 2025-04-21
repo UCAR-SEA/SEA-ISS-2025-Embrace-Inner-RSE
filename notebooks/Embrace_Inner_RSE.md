@@ -1,19 +1,18 @@
-
-
-Helping Scientists Embrace their Inner Research Software Engineer (RSE) and Working Together with the Community Earth System Model (CESM) RSE's to improve CESM Science
-From a Land Component Model (CTSM) Perspective
-CTSM is the (Community Terrestrial System Model)
-Erik Kluzek, SEA ISS Conference  2025 meeting, April 10th
-erik@ucar.edu
-And CTSM SE Team: Adrianna Foster, Greg Lemieux, Ryan Knox, Sam Levis, Sam Rabin, Will Wieder
+# Helping Scientists Embrace their Inner Research Software Engineer (RSE) and Working Together with the Community Earth System Model (CESM) RSE's to improve CESM Science
+## From a Land Component Model (CTSM) Perspective
+## CTSM is the (Community Terrestrial System Model)
+### Erik Kluzek, SEA ISS Conference  2025 meeting, April 10th
+### erik@ucar.edu
+### And CTSM SE Team: Adrianna Foster, Greg Lemieux, Ryan Knox, Sam Levis, Sam Rabin, Will Wieder
 
 
 
 
-Embrace your Inner RSE
-(Research Software Engineer)
+# Embrace your Inner RSE
+# (Research Software Engineer)
 
-Problem Statement
+# Problem Statement
+
 Scientists contribute a substantial amount of code – untrained in RSE practices
 Scientists need to concentrate on their science
 Encourage better Software Development practices from everyone
@@ -23,19 +22,21 @@ This is our story of adding lines of collaboration
 CTSM Code
 Bad code/ Bad RSE practices result in science problems. 
 
-What is CTSM – and Why Should Scientists Care about the Code?
+# What is CTSM – and Why Should Scientists Care about the Code?
+
 CTSM is Science – expressed in Software
 Therefore if you touch any CTSM code – you are an RSE!
 Bad software practices also kill our science
 Clean software and software development practices makes CTSM Science: 
-Easier
-Flexible
-Robust
-Verifiable
-Correct
-Reproducible
+- Easier
+- Flexible
+- Robust
+- Verifiable
+- Correct
+- Reproducible
 
-How do we Encourage Scientists to improve Coding Practices?
+#How do we Encourage Scientists to improve Coding Practices?
+
 Help them to see that poor code impacts the science
 
 
@@ -43,15 +44,15 @@ When problems come up examine the causes and how to prevent
 Point out the missing practices that could’ve helped
 Point out the cost of having poor practices and how that’s greater than cost of practices
 
-How do we Encourage Scientists to improve Coding Practices? 
-Part 2
+# How do we Encourage Scientists to improve Coding Practices?  Part 2
+
 Make sure RSE work is recognized as critical to model development
 
 Recognition in scientific papers / team awards
 Leadership recognizes the importance of RSE work
 RSE’s celebrated and treated well and not “less than” scientists
 
-How do we Encourage Scientists to improve Coding Practices?
+# How do we Encourage Scientists to improve Coding Practices?
 Educate them on the most important practices
 
 RSE team actively doing and experts in the practices
@@ -62,7 +63,8 @@ Education on the practices needs to continue to be done
 Introduce one practice at a time
 Make most important things easy
 
-What Does NOT Work in a Community Model?
+# What Does NOT Work in a Community Model?
+
 Demanding – “you must do ____”
 Expecting – “you should know ____”
 Shaming – “(condescendingly) I told you so – you should have done ____”
@@ -73,7 +75,7 @@ Overwhelm – “Do ALL of these 10 things at once”
 No relevance – “Do these RSE things – forget about the science”
 Wishing – “Maybe someone will do this on their own”
 
-Summary: What Does Work in a Community Model?
+# Summary: What Does Work in a Community Model?
 
 
 Demonstrate costs for bad practices
@@ -81,7 +83,8 @@ Demonstrate practices
 Educate on practices
 Work with people with the highest interests in RSE work
 
-What Makes Doing RSE Tasks Hard?
+# What Makes Doing RSE Tasks Hard?
+
 What can we learn from the SE industry?
 Debugging is the MOST expensive thing we do
 Inherently intractable
@@ -89,7 +92,8 @@ Not possible to estimate
 Further along in development the more expensive it is
 Brittle, poorly designed, poorly tested code keeps you constantly debugging
 
-CTSM SE Team Problems Debugging Poor Code
+# CTSM SE Team Problems Debugging Poor Code
+
 Own example: 83 tasks over 2 years, 50% debugging
 CTSM-SE Team: Sporadic, but 20% ish…
 Identify problems with the code
@@ -97,14 +101,16 @@ Refactor to improve code:
 Commonly changed
 Problematic enough
 
-What Practices does the SE Industry Show Helps?
+# What Practices does the SE Industry Show Helps?
+
 As such SE Industry and Research has found the following practices help:
 Figure out what the software needs to do REQUIREMENTS
 (neither too much or too little)
 Spend effort into DESIGN of the code itself
 Add automated TESTING WHILE you develop
 
-RSE Maxim to Live By
+# RSE Maxim to Live By
+
 Untested Code – IS broken (or will get broken)
 So…
 Don’t add untested code
@@ -112,7 +118,8 @@ Do testing and add testing to test suites
 Continue to run test suites
 
 
-What do some CTSM Scientists Do with Code they Find is Broken?
+# What do some CTSM Scientists Do with Code they Find is Broken?
+
 When you try something in CESM and it's broken for you -- what do you do?
 (Caveat – small group, and informal survey)
  21 votes
@@ -129,7 +136,8 @@ Give up and move on - 0 votes
 0%
 
 
-What Can we Learn from This?
+# What Can we Learn from This?
+
 Most people ask someone else
 That means we have a community to help
 This is time consuming for CESM RSE staff
@@ -143,54 +151,61 @@ Hence improving our testing should help all users
 No one selected “give up and move on”
 This is good news
 
-List of RSE Suggestions
-Small circle JuJitsu (small cycles)
-Trim the fat (requirements)
-Draw the building (design code changes before starting)
-Preserve success (git version control)
-Practice vulnerability (openly share code/issues)
-Trust but verify – test AS you go (Test Driven Development TDD)
-Improve design as you go (refactoring)
+# List of RSE Suggestions
 
-Small circle JuJitsu (small cycles)
+- Small circle JuJitsu (small cycles)
+- Trim the fat (requirements)
+- Draw the building (design code changes before starting)
+- Preserve success (git version control)
+- Practice vulnerability (openly share code/issues)
+- Trust but verify – test AS you go (Test Driven Development TDD)
+- Improve design as you go (refactoring)
+
+# Small circle JuJitsu (small cycles)
+
 Software Development Methodologies are based around the following steps:
-Requirements (what does it need to do)
-Design (figure out what the code should look like)
-Implement (actually do coding)
-Test (verify that the code is correct)
-Deploy (Finish it and give to others)
-Refactor (Improve design – just for ASD)
+1. Requirements (what does it need to do)
+1. Design (figure out what the code should look like)
+1. Implement (actually do coding)
+1. Test (verify that the code is correct)
+1. Deploy (Finish it and give to others)
+1. Refactor (Improve design – just for ASD)
 
 Waterfall Software Development:  is one extreme with one monolithic pass
 Agile Software Development: is at the other with continually doing small cycles of the above
 
-Trim the fat (requirements)
+# Trim the fat (requirements)
+
 Before starting a development cycle 
 Figure out exactly what you need to do for this cycle
 Make sure you don’t do too much
 Or too little
 Stick to it later – helps avoid scope creep
 
-Draw the building (design code changes before starting)
+# Draw the building (design code changes before starting)
+
 Think about the CTSM code and how your changes come in
 Go for clean interfaces that ideally isolate the changes and logic in a modular fashion
 Use helper functions to reduce code duplication
 
-Preserve success (git version control)
+# Preserve success (git version control)
+
 Follow advice on CTSM github wiki pages
 Start from last minor version release tag (ctsm5.3.021)
 Commit your changes as you show they work
 This allows you to go back to a working version
 Allows us to integrate your changes in easier
 
-Practice Vulnerability (openly share code/issues)
+# Practice Vulnerability (openly share code/issues)
+
 Who has been embarrassed to share code you’ve worked on?
 Have others review your code
 Best way to improve
 Code is a shared resource the team is responsible for
 Bugs are a shared problem as well
 
-Trust but verify – test AS you go (Test Driven Development)
+# Trust but verify – test AS you go (Test Driven Development)
+
 Develop tests first
 Show they fail and then PASS as you implement the update
 Adrianna Foster is using functional testing for science she
@@ -198,20 +213,23 @@ Is calling “off offline testing”. Plot results from a science procedure
 
 
 
-Improve design as you go (refactoring)
+# Improve design as you go (refactoring)
+
 With sufficient testing in place you can improve the design as you go
 Improve the design to make it easier to bring in your new code
 Improve the design to get rid of brittle code causing problems
 Refactoring means improving the code design – without changing answers
 
-Questions?
+# Questions?
+
 My questions for you:
 How do you encourage scientists working on code to improve their development practices?
 How do you survey code contributors
 on their practices?
 How do you measure success?
 
-Rate of RSE activities for CTSM
+# Rate of RSE activities for CTSM
+
 What percentage of CESM should be spent on RSE work? What percent is?
 In TSS in CGD NSF-NCAR 2 of 16 have a title of SE (12%)
 Since 2013 we make 40-60 tags per year (once a week) – increasing this by being more focused
