@@ -1,3 +1,9 @@
+<img src=\"https://ucar-sea.github.io/SEA-ISS-Template/_images/2024_SEA_Logo2.png\"\n",
+     width=\"500px\"\n",
+     alt=\"NCAR logo\"\n",
+     style=\"vertical-align:middle\"/>\n",
+
+
 # Helping Scientists Embrace their Inner Research Software Engineer (RSE) and Working Together with the Community Earth System Model (CESM) RSE's to improve CESM Science
 
 ## From a Land Component Model (CTSM) Perspective (CTSM is the (Community Terrestrial System Model)
@@ -29,7 +35,7 @@ This is our story of adding lines of collaboration
 CTSM Code
 Bad code/ Bad RSE practices result in science problems. 
 
-# What is CTSM – and Why Should Scientists Care about the Code?
+## What is CTSM – and Why Should Scientists Care about the Code?
 
 CTSM is Science – expressed in Software
 Therefore if you touch any CTSM code – you are an RSE!
@@ -41,6 +47,8 @@ Clean software and software development practices makes CTSM Science:
 - Verifiable
 - Correct
 - Reproducible
+
+# Methods
 
 # How do we Encourage Scientists to improve Coding Practices?
 
@@ -227,7 +235,7 @@ Improve the design to make it easier to bring in your new code
 Improve the design to get rid of brittle code causing problems
 Refactoring means improving the code design – without changing answers
 
-# Questions?
+# Questions we want to figure out in the future
 
 My questions for you:
 How do you encourage scientists working on code to improve their development practices?
@@ -260,3 +268,6 @@ Testing leaf-level photosynthesis
 27
 
 Testing leaf-level photosynthesis
+
+# Conclusion
+
