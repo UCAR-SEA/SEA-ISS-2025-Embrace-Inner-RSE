@@ -1,17 +1,24 @@
 # Helping Scientists Embrace their Inner Research Software Engineer (RSE) and Working Together with the Community Earth System Model (CESM) RSE's to improve CESM Science
-## From a Land Component Model (CTSM) Perspective
-## CTSM is the (Community Terrestrial System Model)
-### Erik Kluzek, SEA ISS Conference  2025 meeting, April 10th
-### erik@ucar.edu
+
+## From a Land Component Model (CTSM) Perspective (CTSM is the (Community Terrestrial System Model)
 ### And CTSM SE Team: Adrianna Foster, Greg Lemieux, Ryan Knox, Sam Levis, Sam Rabin, Will Wieder
 
+**Author:** [Erik Kluzek](mailto:erik@ucar.edu)
+**Keywords:** Research-Software-Engineering, Software-Devolopment-Methods, CESM, CTSM, Earth-System-Model, Land-Model
 
+# Abstract:
 
+The Community Earth System Model (CESM) is science expressed in Software, which means everyone who touches CESM code to work on the science -- is doing RSE work. There is a list of challenges that CESM RSE’s have with both bringing in new science for CESM and ensuring CESM is well tested, robust, flexible as well as having the correct science. As such CESM Scientists working in CESM code need to work alongside CESM RSE’s to adopt RSE practices while their science is being developed. For CESM to be useful for scientists it needs to be: well-tested, robust, reproducible, flexible and have assurance that the science is implemented correctly. This is needed both for the science and the software of CESM. Helping  scientists embrace their inner RSE is an effort to keep CESM as a leading model in Earth System Science research, by having more people who work with the CESM code adopt good coding practices. In this talk I will specifically talk about RSE practices for the Land Model component of CESM, the Community Terrestrial Science Mode (CTSM)l. I will present on the RSE challenges we have in CTSM and how to solve them we need to involve and educate CTSM scientists to improve our RSE practices. I will also present regarding the CTSM RSE team’s efforts to educate the scientists and on some improvements to our RSE practices that we’ve been implementing on our CTSM Software Development.
 
-# Embrace your Inner RSE
-# (Research Software Engineer)
+```{figure} ../assets/Inner_RSE.png
+name: Embrace Inner RSE figure
 
-# Problem Statement
+Embrace Your Inner Research Software Engineer
+```
+
+# Introduction
+
+## Problem Statement
 
 Scientists contribute a substantial amount of code – untrained in RSE practices
 Scientists need to concentrate on their science
@@ -35,7 +42,7 @@ Clean software and software development practices makes CTSM Science:
 - Correct
 - Reproducible
 
-#How do we Encourage Scientists to improve Coding Practices?
+# How do we Encourage Scientists to improve Coding Practices?
 
 Help them to see that poor code impacts the science
 
