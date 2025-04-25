@@ -2,12 +2,11 @@ format: jb-book
 root: README
 
 parts:
-  - caption: Premable
-    chapters:
-      - file: submission-guidelines.md
-      - file: how-to-cite-this-paper.md
   - caption: Embracing your inner RSE
     chapters:
-      - file: notebooks/Embrace_Inner_RSE.ipynb
+      - file: notebooks/Introduction.ipynb
+      - file: notebooks/Methods.ipynb
+      - file: notebooks/ResultsAndDiscussion.ipynb
+      - file: notebooks/References.md
 
 
