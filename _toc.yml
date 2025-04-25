@@ -5,7 +5,7 @@ parts:
   - caption: Embracing your inner RSE
     chapters:
       - file: notebooks/Introduction.ipynb
-      - file: notebooks/Methods.ipynb
+      - file: notebooks/MethodsAndPractices.ipynb
       - file: notebooks/ResultsAndDiscussion.ipynb
       - file: notebooks/References.md
 
