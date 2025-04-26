@@ -1,7 +1,7 @@
 # Helping Scientists Embrace their Inner Research Software Engineer (RSE) and Working Together with the Community Earth System Model (CESM) RSE's to improve CESM Science
 [![JupyterBook](https://github.com/UCAR-SEA/SEA-ISS-Template/actions/workflows/deploy.yml/badge.svg)](https://github.com/UCAR-SEA/SEA-ISS-Template/actions/workflows/deploy.yml)
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-green?style=flat-square&logo=Jupyter&color=green)](https://jupyter.org/try)
-![Static Badge](https://img.shields.io/badge/DOI-10.XXXXX%2Fnnnnn-blue)
+![Static Badge](https://img.shields.io/badge/DOI-10.10.5281/zenodo.15285525)
 
 **Authors**: [Erik Kluzek](mailto:erik@ucar.edu)
 
