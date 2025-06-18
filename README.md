@@ -13,6 +13,6 @@ NSF-NCAR (National Science Foundation-National Center for Atmospheric Research),
 
 **Acknowledgements**: I want to point out the great CTSM SE team that I am proud to be a part of: Adrianna Foster, Greg Lemieux, Ryan Knox, Sam Levis, Sam Rabin, Will Wieder can be reached at [ctsm-software](mailto:ctsm-software@ucar.edu)
   
-```{image} assets/NSF-NCAR.jpg
-
-```
+<img src="assets/NSF-NCAR.jpg"
+     alt="NSF-NCAR"
+     style="vertical-align:middle"/>
