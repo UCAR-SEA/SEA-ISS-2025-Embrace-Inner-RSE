@@ -11,6 +11,6 @@ NSF-NCAR (National Science Foundation-National Center for Atmospheric Research),
 
 **Keywords:** Research-Software-Engineering, Software-Development-Methods, CESM, CTSM, Earth-System-Model, Land-Model
 
-**Acknowledgements**: I want to point out the great CTSM SE team that I am proud to be a part of: Adrianna Foster, Greg Lemieux, Ryan Knox, Sam Levis, Sam Rabin, Will Wieder can be reached at [ctsm-software](mailto:ctsm-software@ucar.edu)
+**Acknowledgements**: I want to point out the great CTSM RSE team that I am proud to be a part of: Adrianna Foster, Greg Lemieux, Ryan Knox, Sam Levis, Sam Rabin, Will Wieder can be reached at [ctsm-software](mailto:ctsm-software@ucar.edu)
   
 <img src="assets/NSF-NCAR.png" alt="NSF-NCAR" width="30%" align="center"/>
