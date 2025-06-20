@@ -11,6 +11,5 @@ NSF-NCAR (National Science Foundation-National Center for Atmospheric Research),
 
 **Keywords:** Research-Software-Engineering, Software-Development-Methods, CESM, CTSM, Earth-System-Model, Land-Model
 
-**Acknowledgements**: I want to point out the great CTSM RSE team that I am proud to be a part of: Adrianna Foster, Greg Lemieux, Ryan Knox, Sam Levis, Sam Rabin, Will Wieder can be reached at [ctsm-software](mailto:ctsm-software@ucar.edu)
-  
+**Acknowledgements**: I want to point out the great CTSM RSE team that I am proud to be a part of: Adrianna Foster, Greg Lemieux, Ryan Knox, Sam Levis, Sam Rabin, Will Wieder can be reached at [ctsm-software](mailto:ctsm-software@ucar.edu). All, but Greg Lemieux and Ryan Knox are also affiliated with NSF-NCAR, and Lemieux and Knox are affiliated with Lawrence Berkeley Lab (LBL). We also gratefully acknowledge that funding for CESM and CTSM comes from the National Science Foundation. Also a significant portion of CTSM development is in the Functionally Assembled Terrestrial Ecosystem Simulator (FATES) model for vegetation, which is funded by the Department of Energy.
 <img src="assets/NSF-NCAR.png" alt="NSF-NCAR" width="30%" align="center"/>
