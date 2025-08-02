@@ -2,7 +2,7 @@ format: jb-book
 root: README
 
 parts:
-  - caption: Embracing your inner RSE
+  - caption: Contents
     chapters:
       - file: notebooks/Introduction.ipynb
       - file: notebooks/MethodsAndPractices.ipynb
